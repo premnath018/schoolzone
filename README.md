@@ -28,7 +28,7 @@
   - Record and view marks 📝
   - Track attendance 📋
 
-- **User Management** 🔐:
+- **User Management** :
   - Role-based access control 🔑
   - Secure authentication 🔒
 
